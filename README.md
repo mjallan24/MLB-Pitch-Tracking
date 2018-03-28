@@ -6,9 +6,8 @@
 
 Examples:
 
-* _Offensive_ -
-
- *Velocity difference over time
+* _Offensive_ -  
+ * Velocity difference over time
  * Off-speed efficiency
  * Pitch-type tendencies, favorites vs. weaknesses
  
