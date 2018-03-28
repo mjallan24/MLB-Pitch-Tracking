@@ -1,7 +1,9 @@
 ### MLB Pitch Tracking  
 
-#####**Focus**
-By charting a major league pitch you can gain invaluable information both offensively _and_ defensively.  
+**Focus**
+
+>By charting a major league pitch you can gain invaluable information both offensively _and_ defensively.  
+
 Examples:  
 *_Offensive_ -
  *Velocity difference over time
